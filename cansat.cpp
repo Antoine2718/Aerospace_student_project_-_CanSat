@@ -1,5 +1,5 @@
 /*
-  Firmware pour Arduino Pro Mini 3.3V / 8MHz (ATmega328P)
+  Firmware pour Carte C/C++ type Arduino Pro Mini 3.3V / 8MHz (ATmega328P)
   - BMP280 (baro)
   - MPU-6050/9250 (IMU)
   - AK8963 magneto (ou intégré MPU9250)
