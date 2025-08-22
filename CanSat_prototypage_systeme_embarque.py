@@ -1,5 +1,5 @@
 """
-CanSat simulator (functional style)
+Prototypage CanSat
 
 Features:
  - Battery model (Li-ion 1S nominal 3.8 V; full 4.2 V). SoC -> voltage mapping.
