@@ -1,4 +1,4 @@
-# Projet pédagogique de simulation d'un CanSat avec systèmes embarqués
+# 🛰️ Projet pédagogique de CanSat avec systèmes embarqués
 
 
 Important : Ce fichier est strictement destiné à la simulation et à des fins pédagogiques. 
