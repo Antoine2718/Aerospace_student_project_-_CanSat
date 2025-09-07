@@ -1,8 +1,8 @@
 # 🛰️ Projet de CanSat avec systèmes embarqués
 
 
-Important : Ce fichier est strictement destiné à la simulation et à des fins pédagogiques. 
-Important: This file is strictly intended for simulation and educational purposes.
+Important : Ce projet est strictement destiné à la simulation et à des fins pédagogiques. 
+Important: This project is strictly intended for simulation and educational purposes.
 
 Ce projet a pour but de concevoir un CanSat (micro-satellite de la taille d’une cannette) avec un système embarqué permettant d’effectuer : 
 
