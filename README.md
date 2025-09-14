@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-A31F34.svg)](./LICENSE)
+[![: License MIT](https://img.shields.io/badge/License-MIT-A31F34.svg)](./LICENSE)
 
 [![C++](https://img.shields.io/badge/C++-E31937?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 
