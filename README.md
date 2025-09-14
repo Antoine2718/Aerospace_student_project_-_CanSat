@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-A31F34.svg)](./LICENSE)
+
 # 🛰️ Projet de CanSat avec systèmes embarqués
 
 
