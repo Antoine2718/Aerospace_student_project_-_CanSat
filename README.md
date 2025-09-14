@@ -1,7 +1,6 @@
 [![License : MIT](https://img.shields.io/badge/License-MIT-A31F34.svg)](./LICENSE)
 
-[![C++](https://img.shields.io/badge/C++-E31937?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org) [![C](https://img.shields.io/badge/C-A31F34?style=for-the-badge&logo=c&logoColor=blue)](https://en.cppreference.com/w/c)
-# 🛰️ Projet de CanSat avec systèmes embarqués
+[![C++](https://img.shields.io/badge/C++-E31937?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 
 
 Important : Ce projet est strictement destiné à la simulation et à des fins pédagogiques. 
